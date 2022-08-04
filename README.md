@@ -1,15 +1,7 @@
 ### Hi there 👋
 
-<!-- Actual text -->
+# Hi, I'm Fagner! :D
 
-You can find me on \[!\[Twitter\][1.2]\][1], or on \[!\[LinkedIn\][3.2]\][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/nicolas_ceruti
-[2]: https://www.linkedin.com/in/nicolasceruti
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nicolas-ceruti)](https://github.com/fagnerpsantos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/nicolasceruti/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/nicolas_ceruti)
