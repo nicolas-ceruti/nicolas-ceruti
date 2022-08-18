@@ -1,6 +1,6 @@
 
 # Hi, I'm Nicolas! 👋
-[![Github Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/nicolas_ceruti)](https://github.com/nicolas-ceruti)
+[![Github Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/nicolas_ceruti)](https://instagram.com/nicolas_ceruti)
 [![Github Badge](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white&link=https://github.com/nicolas-ceruti)](https://github.com/nicolas-ceruti)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nicolasceruti/)](https://www.linkedin.com/in/nicolasceruti/)
 
