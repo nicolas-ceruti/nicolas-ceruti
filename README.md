@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nicolasceruti/)](https://www.linkedin.com/in/nicolasceruti/)
 
 
-![MySQL Badge](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![MySQL Badge](https://github-readme-stats.vercel.app/api/top-langs/?username={nicolas-ceruti}&theme=blue-green)
 
 
 ##  Languages and Tools
