@@ -15,7 +15,6 @@
 
 <hr>
 
-![](https://tenor.com/view/the-it-crowd-moss-the-it-crowd-the-it-crowd-fire-moss-the-it-crowd-fire-richard-ayoade-gif-15210949)
 
 <img align="right" width="300" src="https://tenor.com/view/the-it-crowd-moss-the-it-crowd-the-it-crowd-fire-moss-the-it-crowd-fire-richard-ayoade-gif-15210949" />
 
