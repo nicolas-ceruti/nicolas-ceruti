@@ -28,9 +28,9 @@
 
 
 ##  Statistics
-<img width=300 align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-ceruti"><img width=670 align='right' src="https://activity-graph.herokuapp.com/graph?username=nicolas-ceruti&theme=minimal">
+<img width=300 align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-ceruti">
 
-<hr>
+
 
 
 
