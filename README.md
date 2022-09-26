@@ -6,7 +6,9 @@
 
 <p>
 
-🎓 Technician in Engineering and Software Development<br/>
+🎓 Technician in Engineering and Software Development - CEDUP<br/>
+
+🎓 Dev the Devs - PUCRS<br/>
 
 💼 Back-end developer.
 
@@ -20,7 +22,7 @@
 
 
 
-<h3 align=left>Languages and Tools</h3>
+<h2 align=left>Languages and Tools</h2>
 
 <br> 
 
