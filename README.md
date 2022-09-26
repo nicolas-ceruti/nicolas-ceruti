@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=nicolas-ceruti&show_icons=true&theme=cobalt2&cache_seconds=2300">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=nicolas-ceruti&show_icons=true&theme=dark&cache_seconds=2300">
 
 ## Hi, I'm Nicolas; 👋
 
@@ -15,7 +15,7 @@
 
 <hr>
 
-<img width=300 align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-ceruti&theme=cobalt2">
+<img width=300 align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-ceruti&theme=dark">
 
 
 
