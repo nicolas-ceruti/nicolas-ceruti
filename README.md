@@ -34,9 +34,7 @@
 
 
 ##  Contact
-<div class="image">
-  <img align="right" width="300" src="https://tenor.com/view/the-it-crowd-moss-the-it-crowd-the-it-crowd-fire-moss-the-it-crowd-fire-richard-ayoade-gif-15210949.gif">
-</div>
+
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/nicolas_ceruti)](https://instagram.com/nicolas_ceruti)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nicolasceruti/)](https://www.linkedin.com/in/nicolasceruti/)
