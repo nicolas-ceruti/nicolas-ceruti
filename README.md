@@ -17,7 +17,7 @@
 
 <hr>
 
-<img width=300 align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-ceruti&theme=dark">
+<img width=300 align='left' src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolas-ceruti&show_icons=true&locale=en&layout=default&hide=python&theme=dark">
 
 
 
@@ -39,4 +39,6 @@
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/nicolas_ceruti)](https://instagram.com/nicolas_ceruti)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/nicolasceruti/)](https://www.linkedin.com/in/nicolasceruti/)
+
+
 
