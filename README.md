@@ -10,7 +10,7 @@
 
 🎓 Dev the Devs - PUCRS<br/>
 
-💼 Back-end developer.
+💼 Full Stack developer.
 
 
 </p>
