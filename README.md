@@ -6,9 +6,11 @@
 
 <p>
 
-🎓 Technician in Engineering and Software Development - CEDUP<br/>
+🎓 Engineering and Software Development Technician - CEDUP<br/>
 
 🎓 Dev the Devs - PUCRS<br/>
+  
+ 🎓 Computer Sciences - FURB<br/>
 
 💼 Full Stack developer.
 
